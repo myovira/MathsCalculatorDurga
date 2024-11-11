@@ -1,0 +1,48 @@
+input[type="button"]
+{
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+    background-color: rgb(245, 218, 182);
+    border: 1.5px solid black;
+    padding: 10px;
+}
+.cal
+{
+    font-size: 40px;
+    background-color: rgb(228, 198, 158);
+    color: rgb(10, 10, 10);
+    border-radius: 2%;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+body
+{
+  justify-content: center;
+  justify-items: center;
+  padding-top: 100px;
+  background-image: url(bkg.avif);
+  background-size: cover;
+  
+  
+}
+#a
+{
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid black;
+}
+.input-button
+{
+    font-size: 20px;
+    width: 20px;
+    
+}
+table 
+{
+  border: 2px solid black;
+ 
+
+  
+}
